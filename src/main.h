@@ -8,6 +8,9 @@
 #include "task.h"
 #include "My_FreeRTOS.h"
 #include "Key.h"
+#include "Queue.h"
+#include "MyTask.h"
+#include "Serial.h"
 
 
 
